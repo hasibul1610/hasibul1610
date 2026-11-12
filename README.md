@@ -1,28 +1,82 @@
-<h1 align="center">Hi This is Md Hasibul Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh!</h3>
+# Hi, I'm Md Hasibul Islam 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajauntor&label=Profile%20views&color=0e75b6&style=flat" alt="Md Hasibul Islam" /> </p>
+### Senior Lecturer | Computer Science Researcher | Deep Learning Enthusiast
 
+I am a Computer Science graduate with an MSc in Computer Science and Engineering from the **Military Institute of Science and Technology (MIST), Bangladesh**. Currently, I am serving as a **Senior Lecturer in the Department of Computer Science and Engineering at IUBAT**.
 
-- 💬 Ask me about **React, Node and JavaScript.**
+My work combines academic teaching with research in Artificial Intelligence, Deep Learning, Computer Vision, and Human-Computer Interaction. I enjoy exploring practical AI solutions to real-world problems, particularly in agriculture and healthcare.
 
-- 📫 How to reach me **bcse.hasibul@.gmail.com**
+---
 
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/n3C0yVy/AJ-2.gif">
+### 🔬 Research Interests
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- Artificial Intelligence and Machine Learning
+- Deep Learning and Computer Vision
+- Medical Image Analysis
+- Agricultural Image Analysis
+- Human-Computer Interaction
+- Explainable Artificial Intelligence
 
-<a href="https://linkedin.com/in/hasibul1610" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ajauntors" height="30" width="40" /></a>
-<a href="https://www.facebook.com/hasibul.islam.50596" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ajauntors" height="30" width="40" /></a>
+### 📚 Selected Research Publications
 
+| Research Area | Publication |
+|:---|:---|
+| Plant Disease Detection | QPAIN 2025 – Deep Learning-based Plant Disease Detection |
+| Rice Leaf Disease | STI 2025 – Rice Leaf Disease Classification |
+| Tomato Leaf Disease | BIM 2025 – Tomato Leaf Disease Research |
+| Medical Image Analysis | Cervical Screening and Image Classification Research |
 
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<br>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajauntor&show_icons=true&locale=en&layout=compact" alt="ajauntor" /></p> -->
-<br>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajauntor&show_icons=true&locale=en" alt="ajauntor" /></p> -->
+### 💻 Technical Interests & Skills
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajauntor&" alt="ajauntor" /></p> -->
+**Programming:** C, C++, Python
+
+**AI & Machine Learning:** Deep Learning, CNN, Transfer Learning, Image Classification
+
+**Computer Vision:** Image Processing, Medical Imaging, Agricultural Image Analysis
+
+**Research Tools:** Python, TensorFlow/Keras, PyTorch, OpenCV
+
+**Academic Interests:** Object-Oriented Programming, Theory of Computation, Computer Architecture, Web Engineering
+
+### 🌱 Current Research Focus
+
+- Developing deep learning approaches for agricultural disease identification.
+- Exploring hybrid AI architectures for disease classification and severity estimation.
+- Working with field-collected agricultural image datasets.
+- Investigating AI-based solutions for medical image analysis.
+- Exploring research opportunities for doctoral studies.
+
+### 👨‍🏫 Teaching & Academic Activities
+
+As a university teacher, I am passionate about making complex computing concepts easier to understand. My teaching interests include:
+
+- Object-Oriented Programming
+- Theory of Computation
+- Computer Architecture and Organization
+- Computer Hardware and Maintenance
+- Web Engineering
+- Engineering Ethics
+
+### 🏆 Academic & Professional Profile
+
+- **Current Position:** Senior Lecturer, Department of CSE, IUBAT
+- **Highest Degree:** MSc in Computer Science and Engineering, MIST
+- **Professional Affiliation:** Member, Institution of Engineers, Bangladesh (IEB)
+- **Academic Activity:** Advisor, Hult Prize at IUBAT
+
+### 🔗 Find Me Online
+
+- **Google Scholar:** [View Publications]([https://scholar.google.com/citations?user=SjPyFlYAAAAJ](https://scholar.google.com/citations?user=SjPyFlYAAAAJ&hl=en))
+- **ORCID:** [0000-0001-7511-2910](https://orcid.org/0009-0002-7934-6751)
+
+---
+
+### 💡 Research Philosophy
+
+*"Turning real-world problems into meaningful research through intelligent computing."*
+
+I believe in continuous learning, collaborative research, and developing practical solutions that can make a meaningful impact.
+
+---
+
+⭐ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and research projects.*
